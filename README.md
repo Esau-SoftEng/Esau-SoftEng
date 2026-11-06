@@ -58,11 +58,11 @@
 
 <br/>
 
+
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Esau's%20Profile&fontSize=38&fontColor=A020F0&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6633f7" width="100%" alt="𝙴𝚜𝚊𝚞'𝚜 𝙿𝚛𝚘𝚏𝚒𝚕𝚎" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=%F0%9D%99%B4%F0%9D%9A%9C%F0%9D%9A%8A%F0%9D%9A%9E%27%F0%9D%9A%9C%20%F0%9D%99%BF%F0%9D%9A%9B%F0%9D%9A%98%F0%9D%9A%8F%F0%9D%9A%92%F0%9D%9A%95%F0%9D%9A%8E&fontSize=38&fontColor=A020F0&fontAlign=50&fontAlignY=50&animation=blink&color=6633f7" width="100%" alt="Esau's Profile"/>
 </div>
+
 
 <div align="center">
 
