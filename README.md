@@ -1,17 +1,19 @@
 
 <h2 align="left">𝗛𝗶 👋! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗘𝘀𝗮ú 𝗮𝗻𝗱 𝗜'𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘀𝘁𝘂𝗱𝗲𝗻𝘁.</h2>
 
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Esau-SoftEng&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Esau-SoftEng&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com?user=Esau-SoftEng&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&background=0D1117" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Esau-SoftEng&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Streak" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esau-SoftEng&locale=en&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&bg_color=0D1117" height="135" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esau-SoftEng&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" height="135" alt="Top Languages" />
 
 </div>
+
 
 <br/>
 
