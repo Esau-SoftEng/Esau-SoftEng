@@ -2,18 +2,12 @@
 <h2 align="left">𝗛𝗶 👋! 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗘𝘀𝗮ú 𝗮𝗻𝗱 𝗜'𝗺 𝗮 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝘀𝘁𝘂𝗱𝗲𝗻𝘁.</h2>
 
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Esau-SoftEng&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Stats" />
-
-  <img src="https://streak-stats.demolab.com?user=Esau-SoftEng&theme=midnight-purple&hide_border=true" height="150" alt="GitHub Streak" />
-
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zau-dev75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="Esaú's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=zau-dev75&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esau-SoftEng&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true" height="135" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zau-dev75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="135" alt="languages graph" />
 </div>
-
 
 <br/>
 
