@@ -60,7 +60,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Esau's%20Profile&fontSize=38&fontColor=A020F0&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6633f7" width="100%" alt="Esau's Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Esau's%20Profile&fontSize=38&fontColor=A020F0&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6633f7" width="100%" alt="𝙴𝚜𝚊𝚞'𝚜 𝙿𝚛𝚘𝚏𝚒𝚕𝚎" />
 
 </div>
 
